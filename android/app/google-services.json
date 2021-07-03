@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772955098679",
+    "project_id": "venro-312921",
+    "storage_bucket": "venro-312921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772955098679:android:52c91f98707aae88b4f9b2",
+        "android_client_info": {
+          "package_name": "com.example.venro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772955098679-t303i2mautp89bavkhfh0du9et8rjhqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5UGZTzlPkMbyaGukHXMHNINn4C3Ozx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772955098679-t303i2mautp89bavkhfh0du9et8rjhqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
